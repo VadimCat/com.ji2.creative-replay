@@ -1,0 +1,1 @@
+{"name":"com.ji2.creative-replay","version":"1.0.1","displayName":"JI2 Creative Replay","description":"Editor input trace recording and isolated device playback for reproducible creative takes.","unity":"6000.0","dependencies":{"com.unity.inputsystem":"1.17.0"},"author":{"name":"MauGames"}}
